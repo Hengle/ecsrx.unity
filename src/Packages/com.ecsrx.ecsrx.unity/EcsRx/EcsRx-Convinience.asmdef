@@ -1,0 +1,20 @@
+{
+    "name": "EcsRx-Convinience",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "EcsRx.dll",
+        "EcsRx.Infrastructure.dll",
+        "EcsRx.MicroRx.dll",
+        "EcsRx.Plugins.Batching.dll",
+        "EcsRx.Plugins.Computeds.dll",
+        "EcsRx.Plugins.ReactiveSystems.dll",
+        "EcsRx.Plugins.Views.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

@@ -1,0 +1,15 @@
+{
+    "name": "EcsRx.Examples",
+    "references": [
+        "GUID:629139f508161eb4bb10264e1b55ae8c",
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
