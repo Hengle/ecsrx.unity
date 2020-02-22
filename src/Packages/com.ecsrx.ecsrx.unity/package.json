@@ -7,7 +7,7 @@
   "version": "2.0.0-rc1",
   "type": "library",
 	"dependencies": {
-		"com.neuecc.unirx": "https://github.com/starikcetin/UniRx.git#7.1.0",
-		"com.svermeulen.extenject": "https://github.com/starikcetin/Extenject.git#9.1.0"
+		"com.neuecc.unirx": "7.1.0",
+		"com.svermeulen.extenject": "9.1.0"
 	}
 }
