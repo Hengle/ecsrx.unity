@@ -1,0 +1,13 @@
+{
+	"author": "EcsRx",
+	"description": "A simple framework for unity using the ECS paradigm but with unirx for fully reactive systems.",
+	"displayName": "EcsRx.Unity",
+	"license": "MIT",
+	"name": "com.ecsrx.ecsrx.unity",
+	"version": "2.0.0-rc1",
+	"type": "library",
+	"dependencies": {
+		"com.neuecc.unirx": "7.1.0",
+		"com.svermeulen.extenject": "9.1.0"
+	}
+}
