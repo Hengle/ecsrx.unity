@@ -1,3 +1,15 @@
+[![openupm](https://img.shields.io/npm/v/com.ecsrx.ecsrx.unity?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.ecsrx.ecsrx.unity/)
+
+This repository has UPM support. Install it as follows:
+
+```
+npm install -g openupm-cli
+openupm add com.ecsrx.ecsrx.unity
+```
+
+----
+
+
 # EcsRx.Unity
 
 [EcsRx](https://github.com/EcsRx/ecsrx) is a reactive take on the common ECS pattern with a well separated design, this library builds off that basis and adds unity specific helpers and functionality.
